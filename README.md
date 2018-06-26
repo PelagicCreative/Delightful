@@ -1,0 +1,2 @@
+# Delightful
+Blank repository
